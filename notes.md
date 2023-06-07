@@ -13,3 +13,8 @@ Front-End:
 
 - muốn sử dụng import...from.... thì cần thêm "type" : "module"
 - limit: 30mb --> giới hạn tối đa dung lượng client submit lên server
+  mongo atlas:
+  tk: tranvandathtml0503
+  mk: 5LHrqKsm9eoVX68O
+  database access:
+  pass: iAadQT3QdDnyJx6E
